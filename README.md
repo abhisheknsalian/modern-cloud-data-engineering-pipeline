@@ -20,6 +20,18 @@ The objective of this project is to simulate a production-grade data engineering
 
 ---
 
+# ✨ Key Features
+
+- End-to-end batch ETL pipeline using Python
+- Medallion Architecture (Bronze, Silver, Gold)
+- Data Lake implementation with Amazon S3
+- Cloud Data Warehouse using Snowflake
+- Analytics Engineering with dbt
+- Infrastructure as Code using Terraform
+- Automated CI pipeline with GitHub Actions
+- Dockerized development environment
+- Data validation and quality checks
+
 # 🏗 Architecture
 
 ```
@@ -178,7 +190,7 @@ Continuous Integration pipeline automatically:
 
 ---
 
-# 📊 Data Flow
+# 🔄 End-to-End Data Flow
 
 ```
 Raw Dataset
