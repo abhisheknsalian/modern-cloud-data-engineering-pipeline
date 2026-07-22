@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    database: RETAIL_DB
+    schema: STAGING
+
+    tables:
+      - name: RAW_RETAIL

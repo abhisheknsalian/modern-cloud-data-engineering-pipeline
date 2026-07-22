@@ -1,0 +1,3 @@
+from scripts.upload_s3 import upload_pipeline_outputs
+
+upload_pipeline_outputs()
